@@ -1,6 +1,6 @@
-![Logo](https://facecheck.id/img/FaceCheck_logo.svg)
-
 # FaceCheck.id - Encontre Pessoas Online por Foto
+
+![Logo](https://facecheck.id/img/FaceCheck_logo.svg)
 
 ## Descrição
 
@@ -12,7 +12,9 @@ O [FaceCheck.id](https://facecheck.id/) é uma plataforma avançada de localiza�
 
 - **Integração Simplificada:** A plataforma oferece uma integração fácil e flexível.
 
-- **Extenção para integrar ao navegador** Simplificando ainda mais o uso.
+- **Extenção para integrar ao navegador, simplificando ainda mais o uso.**
+
+- **Disponivel tambem para dispositivos android na Google Play.**
 
 - **Segurança Avançada:** A tecnologia de reconhecimento facial avançada do FaceCheck.id utiliza algoritmos sofisticados.
 
